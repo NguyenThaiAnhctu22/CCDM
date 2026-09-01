@@ -29,4 +29,4 @@ Dự án hỗ trợ định dạng tệp chuyên biệt `.ccdm` với khả năn
 * **Kéo thả, thu phóng chỉ với chuột:** giữ chuột phải để di chuyển vùng nhìn, cuộn chuột thể thu phóng.
 * **Hỗ trợ Windows và GNU/Linux:** Tự động đăng ký liên kết file `.ccdm` hệ thống, hiển thị biểu tượng riêng và cho phép nhấp đôi để mở file trực tiếp.
 * **Phần mềm gọn nhẹ:** Chỉ với những tính năng phổ biến.
-* **Xuất hình ảnh/SQL DDL:** Ưu tiên xuất hình ảnh bằng PNG/Jpg. File sql đơn giản
+* **Xuất hình ảnh/SQL DDL:** Ưu tiên xuất hình ảnh bằng PNG/JPG. File SQL đơn giản
