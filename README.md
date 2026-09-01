@@ -23,6 +23,8 @@
 
 Dự án hỗ trợ định dạng tệp chuyên biệt `.ccdm` với khả năng tích vào hệ điều hành Windows.
 
+AI được sử dụng trong quá trình phát triển dự án này.
+
 ## ✨ Tính năng nổi bật
 
 * **Hỗ trợ gõ:** Ví dụ thực thể là "KHACH_HANG" thì thuộc tính tự hiện tiền tố "KH_".
