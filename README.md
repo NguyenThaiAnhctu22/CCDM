@@ -27,7 +27,7 @@ AI được sử dụng trong quá trình phát triển dự án này.
 
 ## ✨ Tính năng nổi bật
 
-* **Hỗ trợ gõ:** Ví dụ thực thể là "KHACH_HANG" thì thuộc tính tự hiện tiền tố "KH_".
+* **Hỗ trợ gõ:** Ví dụ thực thể là "KHACH_HANG" thì thuộc tính tự điền tiền tố "KH_".
 * **Kéo thả, thu phóng chỉ với chuột:** giữ chuột phải để di chuyển vùng nhìn, cuộn chuột thể thu phóng.
 * **Hỗ trợ Windows và GNU/Linux:** Tự động đăng ký liên kết file `.ccdm` hệ thống, hiển thị biểu tượng riêng và cho phép nhấp đôi để mở file trực tiếp.
 * **Phần mềm gọn nhẹ:** Chỉ với những tính năng phổ biến.
